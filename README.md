@@ -1,2 +1,2 @@
-# Lines-and-Triangles
-CSC 3310 Prolog Assignment
+# Prolog Assignment
+CSC 3310: Lines and Triangles
